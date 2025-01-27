@@ -1,0 +1,22 @@
+[
+    {
+        "titre": "Des nouilles exquuuuuuuuises",
+        "description": "Pour célébrer l'ouverture de sa nouvelle adresse à Montparnasse, TrantranZai propose un Menu Découverte Sichuan à seulement 25€ par personne. Ce menu inclut un assortiment de raviolis en entrée, des nouilles Sichuanaises au choix en plat principal, un accompagnement, un dessert et une boisson. En bonus, chaque mardi soir, une démonstration culinaire en direct est offerte. Il est conseillé de réserver dès maintenant pour vivre une expérience gastronomique authentique dans une ambiance immersive !",
+        "banniere": "../data/nouilles.jpg"
+    },
+    {
+        "titre": "BOOOOM !!",
+        "description": "Avec l'arrivée de Boom Boom à Porte de la Villette, c'est près de 20 kiosques food qui sont prêt à vous accueillir pour passer un moment convivial en famille ou entre amis ! ",
+        "banniere": "../data/boom.png"
+    },
+    {
+        "titre": "Ouverture du Maru Café",
+        "description": "Les célèbres YouTubeurs Louis San et Marie ont décidé de collaborer ensemble pour vous proposer une adresse asiatique de ce nom. Il s'agit d'un établissement dit café-restaurant qui allie à la fois traditions japonaises et savoir-faire coréen. N'hésitez pas !",
+        "banniere": "../data/maru.png"
+    },
+    {
+        "titre": "Des bons plans arrivent bientot....",
+        "description": "Merci de votre confiance !",
+        "banniere": ""
+    }
+]

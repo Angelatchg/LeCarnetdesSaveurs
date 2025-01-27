@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Carnet des Saveurs - Accueil</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="shortcut icon" href="../data/logo.ico" />
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="../data/logo-png.png" alt="Le Carnet des Saveurs Logo">
+        </div>
+        <div class="header-content">
+            <h1 id="titre-principal">Le Carnet des Saveurs</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="top10.html">Top 10</a></li>
+                    <li><a href="aleatoire.html">Aléatoire</a></li>
+                    <li><a href="apropos.html">À propos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <nav id="dropdown-menu" class="hidden">
+        <div id="close-icon">&times;</div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Filtrer par prix</th>
+                    <th>Filtrer par saveurs</th>
+                    <th>Filtrer par localisation</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a id="cat-low-cost" href="#low-cost">Catégorie low-cost</a></td>
+                    <td><a id="cat-asiat" href="#asiatique">Catégorie asiatique</a></td>
+                    <td><a id="cat-paris-intra" href="#paris">Catégorie Paris intra-muros</a></td>
+                </tr>
+                <tr>
+                    <td><a id="cat-abordable" href="#abordable">Catégorie abordable</a></td>
+                    <td><a id="cat-occidentale" href="#occidentale">Catégorie occidentale</a></td>
+                    <td><a id="cat-couronne" href="#couronne">Catégorie petite couronne</a></td>
+                </tr>
+                <tr>
+                    <td><a id="cat-couteux" href="#couteux">Catégorie coûteux</a></td>
+                    <td><a id="cat-orientale" href="#orientale">Catégorie orientale</a></td>
+                    <td><a id="cat-banlieue" href="#banlieue">Catégorie banlieue</a></td>
+                </tr>
+                <tr>
+                    <td><a id="cat-luxueux" href="#luxueux">Catégorie luxueux</a></td>
+                    <td><a id="cat-tiers-monde" href="#tiers-monde">Catégorie tiers-monde</a></td>
+                    <td><a id="cat-province" href="#province">Catégorie province</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </nav>
+    
+    <main id='credits'>
+        <h2>Projet Web - Par AMI SAADA Massil Achour et TCHING Angela</h2>
+
+        <h3>Implémentations : </h3>
+        <p>Nous avons réussi à implémenter une page d'accueil qui montre des bons plans. Ils ne sont pas cliquables, faute de temps</p>
+        <p>Nous avons également réussi à implémenter un menu (en cliquant sur le logo en haut à gauche), qui permet de parcourir les restaurants par catégories</p>
+        <p>Ce système de restaurants a été principalement réutilisé dans la plupart des pages. Il est entièrement modulable (il suffit d'ajouter une entrée dans le restaurants.json)</p>
+        <p>Chaque vignette de restaurant est cliquable et renvoie vers un site (à titre d'exemple uniquement)</p>
+
+        <br>
+
+        <h3>Défauts : </h3>
+        <p>Notre top 10 se base uniquement sur l'ordre des entrées des restaurants dans le fichier JSON, et non sur une vraie note globale (faute de temps)</p>
+        <p>De plus, les bannières ne sont pas réellement toutes représentative des restaurants qu'elles affichent. Cela est juste pour donner un premier prototype visuel.</p>
+        <p>Enfin, le style aurait pu être amélioré (temps) et certaines fonctionnalités (recherche par localisation) ont été abandonnés, jugées trop complexes.</p>
+
+        <br>
+
+        <h3>Angela TCHING</h3>
+        <ul>
+            <li>A travaillé sur le système de bons plans</li>
+            <li>A travaillé sur le système du dropmenu</li>
+            <li>A travaillé de manière générale sur les différents styles des pages (DA)</li>
+        </ul>
+
+        <br>
+
+        <h3>Massil Achour AMI SAADA</h3>
+        <ul>
+            <li>A travaillé sur l'implémentation des restaurants (du fichier JSON à la vignette sur le site)</li>
+            <li>A travaillé sur le système de randomisation et du top10</li>
+            <li>A travaillé de manière général sur les différents style des pages (DA)</li>
+        </ul>
+
+    <footer>
+        <nav>
+            <a href="apropos.html">À propos</a>
+        </nav>
+        <h3>Copyright. A&A - 2024</h3>
+    </footer>
+    <script src="../script/menu.js"></script>
+    <script src="../script/categories.js"></script>
+</body>
+</html>

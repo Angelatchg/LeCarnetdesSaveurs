@@ -1,0 +1,134 @@
+[
+    {
+      "name": "La Route des Gourmets",
+      "shortDescription": "Restaurant A propose une cuisine délicieuse.",
+      "longDescription": "La Route des Gourmets est réputé pour sa cuisine exquise et prestigieuse. En somme, une bonne adresse pour qui en a les moyens",
+      "bannerImage": "../data/sample1.jpg",
+      "location": "paris-intra",
+      "priceCategory": 4,
+      "flavor": "française",
+      "generalFlavor": "occidentale",
+      "lien": "https://laroutedesgourmets.fr/en/wine-and-food-tours-in-paris-en/food-tour-of-st-germain-des-pres/"
+    },
+    {
+      "name": "Pizzou",
+      "shortDescription": "Venez découvrir les spécialités du Restaurant B.",
+      "longDescription": "Pizzou propose des spécialités comme en italie, et pour un prix tout à fait abordable. Venez re-décrouvir la simplicité d'une part de pizza",
+      "bannerImage": "../data/sample3.jpg",
+      "location": "paris-intra",
+      "priceCategory": 2,
+      "flavor": "italienne",
+      "generalFlavor": "occidentale",
+      "lien": "https://pizzou.fr"
+    },
+    {
+      "name": "Resto D'Asie Miao",
+      "shortDescription": "Restaurant C offre une cuisine créative et originale.",
+      "longDescription": "Asie Miao vous propose une carte asiatique simple, mais complète. Vous en aurez pour tout les goûts et pour un prix très intéressant.",
+      "bannerImage": "../data/sample1.jpg",
+      "location": "banlieue",
+      "priceCategory": 1,
+      "flavor": "asiatique",
+      "generalFlavor": "asiat",
+      "lien": "https://www.pagesjaunes.fr/pros/51249930"
+    },
+    {
+      "name": "L'Auberge de l'Érable",
+      "shortDescription": "Découvrez les délices du Restaurant D.",
+      "longDescription": "Le Restaurant D est connu pour ses plats savoureux et son atmosphère conviviale. Venez déguster nos spécialités et profiter d'une expérience culinaire inoubliable.",
+      "bannerImage": "../data/sample2.jpg",
+      "location": "province",
+      "priceCategory": 4,
+      "flavor": "méditerranéenne",
+      "generalFlavor": "occidentale",
+      "lien": "https://www.aubergedelafeuillederable.fr"
+    },
+    {
+      "name": "Le Jardin des Délices",
+      "shortDescription": "Venez goûter les délices du Restaurant E.",
+      "longDescription": "Le Jardin des Délices propose une cuisine raffinée et des plats exquis. Notre équipe attentionnée vous accueille dans un cadre élégant et vous invite à savourer une expérience gastronomique unique.",
+      "bannerImage": "../data/sample3.jpg",
+      "location": "province",
+      "priceCategory": 3,
+      "flavor": "mexicaine",
+      "generalFlavor": "tiers-monde",
+      "lien": "https://www.tripadvisor.fr/ShowUserReviews-g187147-d718784-r475188682-Laurent-Paris_Ile_de_France.html"
+    },
+    {
+      "name": "Un Soir à Shibuya",
+      "shortDescription": "Dégustez les spécialités du Restaurant F.",
+      "longDescription": "Un soir à Shibuya est un restaurant japonais très prisée des bordelais. Venez découvrir le meilleur de ce qui se fait en France, et pour un prix convenable.",
+      "bannerImage": "../data/sample1.jpg",
+      "location": "province",
+      "priceCategory": 2,
+      "flavor": "japonaise",
+      "generalFlavor": "asiat",
+      "lien": "http://unsoirashibuya.fr"
+    },
+    {
+      "name": "Chez Gaston",
+      "shortDescription": "Profitez des saveurs du Restaurant G.",
+      "longDescription": "Chez Gaston vous propose une expérience culinaire exceptionnelle avec ses plats créatifs et ses saveurs uniques. Venez savourer nos délices et laissez-vous séduire par notre ambiance chaleureuse.",
+      "bannerImage": "../data/sample2.jpg",
+      "location": "banlieue",
+      "priceCategory": 1,
+      "flavor": "française",
+      "generalFlavor": "occidentale",
+      "lien": "https://cafechezgaston.fr"
+    },
+    {
+      "name": "L'Oasis Gourmand",
+      "shortDescription": "Savourez les plats du Restaurant H.",
+      "longDescription": "L'Oasis Gourmand vous invite à découvrir une cuisine authentique et pleine de saveurs. Notre chef talentueux utilise des ingrédients frais et locaux pour créer des plats délicieux et innovants.",
+      "bannerImage": "../data/sample4.jpg",
+      "location": "province",
+      "priceCategory": 1,
+      "flavor": "turque",
+      "generalFlavor":"orientale",
+      "lien": "https://www.facebook.com/people/SnackLoasis-Gourmand/100050399450026/"
+    },
+    {
+      "name": "Baosian",
+      "shortDescription": "Venez déguster les spécialités du Restaurant I.",
+      "longDescription": "Baosian vous offre une expérience culinaire unique avec ses plats savoureux et son ambiance conviviale. Venez découvrir nos saveurs exotiques et laissez-vous séduire par notre hospitalité.",
+      "bannerImage": "../data/sample1.jpg",
+      "location": "paris-intra",
+      "priceCategory": 3,
+      "flavor": "thaïlandaise",
+      "generalFlavor": "asia",
+      "lien": "https://www.baosian.fr"
+    },
+    {
+      "name": "L'île",
+      "shortDescription": "Découvrez les délices du Restaurant J.",
+      "longDescription": "Situé à Issy-les-Moulineaux, ce restaurant vous proposera une cuisine traditionnelle française, qui vaut son prix. Entrez dans un monde de sensation distinguées et aux goûts prononcés.",
+      "bannerImage": "../data/sample2.jpg",
+      "location": "banlieue",
+      "priceCategory": 3,
+      "flavor": "espagnole",
+      "generalFlavor": "occidentale",
+      "lien": "https://www.restaurant-lile.com"
+    },
+    {
+      "name": "Assanabel",
+      "shortDescription": "Profitez des saveurs du Restaurant K.",
+      "longDescription": "Assanabel est l'une des meilleurs adresses libanaise de Paris. Vous ",
+      "bannerImage": "../data/sample1.jpg",
+      "location": "paris-intra",
+      "priceCategory": 4,
+      "flavor": "libanaise",
+      "generalFlavor": "orientale",
+      "lien": "https://www.assanabelparis.com"
+    },
+    {
+      "name": "BOLKIRI",
+      "shortDescription": "Savourez les plats du Restaurant L.",
+      "longDescription": "Le Restaurant L vous invite à découvrir une cuisine authentique et pleine de saveurs. Notre chef talentueux utilise des ingrédients frais et locaux pour créer des plats délicieux et innovants.",
+      "bannerImage": "../data/sample2.jpg",
+      "location": "couronne",
+      "priceCategory": 2,
+      "flavor": "vietnamienne",
+      "generalFlavor": "asia",
+      "lien": "https://bolkiri.fr"
+    }
+]
